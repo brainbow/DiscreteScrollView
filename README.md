@@ -1,3 +1,6 @@
+# Forked
+The library has been forked over, to update all dependencies to AndroidX.
+
 # DiscreteScrollView
 
 The library is a RecyclerView-based implementation of a scrollable list, where current item is centered and can be changed using swipes.
