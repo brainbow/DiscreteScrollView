@@ -1,5 +1,5 @@
 # Forked
-The library has been forked over, to update all dependencies to AndroidX. We are using this library for *InfiniteScrollView* in Rise Android Upsell screen. Please contact Rise Android Team before deleting this repository.
+The library has been forked over, to update all dependencies to AndroidX.
 
 # DiscreteScrollView
 
